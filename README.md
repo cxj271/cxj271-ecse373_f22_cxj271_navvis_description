@@ -39,7 +39,7 @@ roslaunch navvis_description navvis.launch
     - if use_new_robot = "false"
       - Shows the "Laserscan" in the display panel but lasers cannot be seen in the visual panel
   3. config_w_map.rviz
-    - **CANNOT BE USED IF use_new_robot = "false" **
+    - **CANNOT BE USED IF use_new_robot = "false"**
     - Shows the map for the 5th floor of Glennan, the navvis robot roaming around, and the 3D lidar readings
     
 6. use_external_clock := true/false
