@@ -30,7 +30,7 @@ roslaunch navvis_description navvis.launch
   - if false: creates the static_transform_publisher nodes for the three wheels
 
 
-5. config_file_name = "<filename>"
+5. config_file_name = "filename"
   - default = "config.rviz" 
   - sets the filename for the config file
   - There are currently 3 options: 
