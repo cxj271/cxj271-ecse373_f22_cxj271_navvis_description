@@ -1,6 +1,7 @@
 # ecse373_f22_cxj271_navvis_description
 
 **How to Run this ROS package:**
+
 roslaunch navvis_description navvis.launch
 
 **Additional Options:**
